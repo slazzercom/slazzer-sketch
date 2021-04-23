@@ -26,7 +26,7 @@
   "author": "Slazzer",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slazzercom/sketch-slazzer.git"
+    "url": "git+https://github.com/slazzercom/slazzer-sketch.git"
   },
   "dependencies": {
     "axios": "^0.21.1",
